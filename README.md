@@ -1,6 +1,6 @@
 ### _Hi there 👋, I'm carefreezi._
 
-I love to talk on trending ⚡ technology ⚡, stay hungry stay foolish. Connect with me here -
+剑未佩妥 ⚡ 出门便已是江湖
 
 - 🚀 I use daily: 
   [![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=JavaScript&logoColor=FFCA28)](https://www.nsmao.com/)
